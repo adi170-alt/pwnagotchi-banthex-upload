@@ -7,8 +7,8 @@
 ```
 main.plugins.display-banthex.enabled = true
 main.plugins.display-banthex.orientation = "horizontal"
+main.plugins.banthex.download_results = false  # (Enable this if you are going to want to use the pwnagotchi-display-password-banthex-plugin plugin)
 ```
-`main.plugins.banthex.download_results = false` (Enable this if you are going to want to use the pwnagotchi-display-password-banthex-plugin plugin)
 
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 
