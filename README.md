@@ -12,4 +12,4 @@ Once the above steps are completed, reboot the Pwnagotchi to ensure all changes 
 
 # Screenshot:
 
-![banthex.py](/screenshot.jpg?raw=true "banthex.py")
+![banthex.py](/screenshot.png?raw=true "banthex.py")
